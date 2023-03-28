@@ -1,0 +1,61 @@
+.nav {    
+    width: 85%;
+}
+
+img {
+    float:left;  
+    margin-top: 40px;   
+    
+}
+
+h1 {
+    display: inline-block;
+    position: absolute; 
+    left: 220px; 
+    color: #FFFFFF;
+
+}
+
+li {
+    display: inline-block;
+    padding: 20px;
+}
+
+li:hover{
+    color:cyan;
+}
+
+
+.carrocel {
+    background-color: #ffe4c4;
+    width: 85%; 
+}
+
+.azul {
+    background-color: blue;
+    height: 250px;
+}
+
+.amarelo {
+    background-color: yellow;
+    height: 250px;
+}
+
+.verde {
+    background-color: green;
+    height: 250px;
+}
+
+.depoimentos {
+    width: 85%;
+}
+
+footer {
+    background:darkcyan;
+    height: 150px;
+    width: 85%;
+}
+    
+    
+
+
